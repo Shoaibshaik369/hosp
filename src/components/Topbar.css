@@ -1,0 +1,37 @@
+.topbar {
+    background-color: #72b6ff;
+    color: white;
+    width: 100%;
+    position: fixed;
+  }
+  .topbar input {
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-weight: 500;
+    color: #b0aeae;
+    margin-right: 2.5rem;
+    width: 14rem;
+  }
+  
+
+
+ 
+ .ic {
+  width: 20px;
+  height: 20px;
+  margin-right: 1rem;
+  padding: 1rem;
+ }
+
+ .ic:hover {
+  background-color: #2174cd;
+ }
+
+ .ht {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+ 

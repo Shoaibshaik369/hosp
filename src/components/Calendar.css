@@ -1,0 +1,20 @@
+.calendar {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  .calendar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .calendar-body table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .calendar-body table th, .calendar-body table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
